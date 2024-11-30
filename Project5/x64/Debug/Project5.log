@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  human.cpp
+  Создание кода...
+C:\Users\User\source\repos\Project5\human.cpp(4,1): error C2589: end of file: недопустимая лексема справа от "::"
+C:\Users\User\source\repos\Project5\human.cpp(4,1): error C1004: непредвиденное обнаружение конца файла
